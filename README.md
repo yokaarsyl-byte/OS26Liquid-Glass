@@ -92,7 +92,7 @@ The theme styles can also be imported manually. To do that, follow these steps:
 
 # Clear Variant
 ## OS26 Liquid Glass (Clear Taskbar 2)
-![Preview_Taskbar-2](screenshot-taskbar-2 (2).png)
+![Preview_Taskbar-2](screenshot-taskbar-2(2).png)
 <details>
 <summary>Content to import (click to expand)</summary>
 
