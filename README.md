@@ -6,6 +6,8 @@ This theme makes the Windows 11 taskbar look like an OS26-inspired "Liquid Glass
 
 # Previews
 
+## Taskbar 2(Clear):
+![Dock-Preview](screenshot-taskbar-2.png)
 ## Taskbar 2(Dark)
 ![Taskbar-Dark-Preview](screenshot-taskbar-2-dark.png)
 
